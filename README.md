@@ -1,21 +1,17 @@
 # Yael Durahly
 
-Fourth-year B.Sc. student in Software & Information Systems Engineering at Ben-Gurion
-University, graduating in 2027. My work reaches across AI research, full-stack development,
-and systems security.
+Fourth-year Software & Information Systems Engineering student at Ben-Gurion University,
+graduating in 2027. I work across full-stack development, machine learning, and systems
+security.
 
-My final-year project is a runtime security system for Linux build servers. During a build,
-the server spawns hundreds of short-lived processes amid heavy file and network activity,
-giving an attacker room to hide malicious behavior inside legitimate build steps. Using
-eBPF, the system instruments each build as it runs, enriches every event with build-phase
-and process-lineage context, then weighs that evidence through deterministic rules alongside
-a behavior-based detector to decide its response: allow, alert, or stop the build.
+Right now I'm building my final project: a security system for Linux build servers that
+spots attacks hiding inside normal build activity. It uses eBPF to watch each build as it
+runs, then decides whether to allow, alert, or stop it.
 
-Previously I was an AI Research Intern at IBM's Beer-Sheva Research Lab, where I evaluated
-data-selection methods for fine-tuning language models with LoRA and compared online and
-offline training strategies across three models. Earlier, I completed the Magshimim
-national cyber program before serving in the IDF C4I Technological Unit, where I developed
-internal software while managing network infrastructure for over 500 users.
+Before this I was an AI Research Intern at IBM's Beer-Sheva Research Lab, working on data
+selection for fine-tuning language models. Earlier I came up through the Magshimim national
+cyber program and served in the IDF C4I Technological Unit, writing software and managing
+the network for 500+ users.
 
 ## Technical Toolkit
 
