@@ -28,10 +28,10 @@ the network for 500+ users.
 A full-stack meal and nutrition tracker with a live-updating dashboard and AI-powered food
 analysis from a photo, where I built the core tracking and AI-image features.
 
-### [Clinical Decision Support — Lab Results](https://github.com/Yael-work/CDSS_Lab_results)
+### [Clinical Decision Support for Lab Results](https://github.com/Yael-work/CDSS_Lab_results)
 
 A clinical decision-support tool that reads lab results, flags health risks, and explains
-its reasoning through transparent rules rather than a black-box model, where I built the
+its reasoning with clear, documented rules instead of a black box, where I built the
 trend-tracking and risk-escalation logic.
 
 ### [Java Maze Pathfinding](https://github.com/Yael-work/java-maze-pathfinding)
@@ -42,8 +42,8 @@ from the search algorithms to the GUI.
 
 ### [Networked Blackjack](https://github.com/Yael-work/CS_BlackyJacky)
 
-A networked multiplayer blackjack game with a multithreaded server, where I focused on
-getting the concurrency right — fixing race conditions and making the client event-driven.
+A networked multiplayer blackjack game with a multithreaded server, where I worked on the
+concurrency, fixing race conditions and making the client wait on events instead of busy-looping.
 
 ## What I'm Looking For
 
@@ -51,7 +51,7 @@ I am looking for student and junior positions in frontend and backend software e
 applied machine learning, and systems security. I am also open to a broad range of roles,
 such as product management.
 
-Alongside my studies I have spent several years teaching and mentoring programming — from
+Alongside my studies I have spent several years teaching and mentoring programming, from
 high-school students in the Magshimim national cyber program to new immigrants pursuing STEM
 degrees. I work in Hebrew, English and Russian.
 
